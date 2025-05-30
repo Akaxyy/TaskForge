@@ -1,6 +1,6 @@
-# 🛠️ TaskForge
+# 🛠️ TaskForge 
 
-**TaskForge** é um agendador de tarefas construído com **Python (FastAPI)** no backend e **React** no frontend. A proposta é oferecer uma experiência leve, intuitiva e produtiva para quem quer organizar melhor suas rotinas.
+**TaskForge** é um agendador de tarefas construído com **Python (FastAPI)** e **React**. A proposta é oferecer uma experiência produtiva para quem quer organizar suas rotinas.
 
 ---
 
