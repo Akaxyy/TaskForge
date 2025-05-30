@@ -1,0 +1,6 @@
+.venv/
+**/.env
+.gitignore
+readme_project.md
+frontend/node_modules/
+**/__pycache__/
